@@ -22,7 +22,7 @@ Date:
 * Team type:
 * Part of a Platform? (y/n) Details:
 * Do we provide a service to other teams? (y/n) Details:
-* What kind of Service Level Expectations do other teams have of us?
+* What kind of Service Level Expectations do other teams have of us? (As neccessary)
 * Software owned and evolved by this team: (Code: runtime endpoints, libraries, clients, UI, etc. produced by the team)
 * Versioning approaches:
 * Wiki search terms: (* Wiki and documentation: especially how-to guides for the software owned by the team)
