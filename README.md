@@ -23,18 +23,18 @@ Date:
 * Part of a Platform? (y/n) Details:
 * Do we provide a service to other teams? (y/n) Details:
 * What kind of Service Level Expectations do other teams have of us?
-* Software owned and evolved by this team:
+* Software owned and evolved by this team: (Code: runtime endpoints, libraries, clients, UI, etc. produced by the team)
 * Versioning approaches:
-* Wiki search terms:
-* Chat tool channels: #_____________ #_____________ #_____________
-* Time of daily sync meeting:
+* Wiki search terms: (* Wiki and documentation: especially how-to guides for the software owned by the team)
+* Chat tool channels: #_____________ #_____________ #_____________ (* Communication: the team’s approach to remote communication tools, such as chat tools and video conferencing)
+* Time of daily sync meeting: 
 
 > Team type: (Stream-Aligned, Enabling, Complicated Subsystem, Platform)
 
 ### What we're currently working on
 
-* Our services and systems:
-* Ways of working:
+* Our services and systems:(* Work information: what the team is working on now, what’s coming next, and overall priorities in the short to medium term, e.g. link to backlog)
+* Ways of working:(* Practices and principles: the team’s preferred ways of working)
 * Wider cross-team or organisational improvements:
 
 ### Teams we currently interact with
